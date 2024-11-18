@@ -10,10 +10,10 @@
   "license": "MIT",
   "dependencies": {
     "@node-ntlm/httpreq": "^0.3.2",
-    "debug": "4.1.1",
+    "debug": "4.3.0",
     "lodash": "4.17.21",
     "request": "^2.88.0",
-    "soap": "^0.30.0",
+    "soap": "^1.1.6",
     "tmp": "0.0.28",
     "when": "3.7.7"
   },
