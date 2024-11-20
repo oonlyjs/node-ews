@@ -12,7 +12,7 @@
     "@node-ntlm/httpreq": "^0.3.2",
     "debug": "4.3.1",
     "lodash": "4.17.21",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "soap": "^1.1.6",
     "tmp": "0.0.28",
     "when": "3.7.7"
